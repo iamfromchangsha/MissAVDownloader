@@ -90,7 +90,7 @@ pip install -r requirements.txt
         点击 "Add Files" 或 "Add Folder" 添加以下三项：
         1.  **添加文件**: 选择 `N_m3u8DL-RE.exe` -> 目标路径(Destination)填 `.`
         2.  **添加文件**: 选择 `ffmpeg.exe` -> 目标路径(Destination)填 `.`
-        3.  **添加文件夹**: 选择项目目录下的 `playwright` 文件夹 -> 目标路径(Destination)填 `playwright`
+        3.  **添加文件夹**: 选择项目目录下的 `playwright` 文件夹 -> 目标路径(Destination)填 `playwright/chromium-xxx`
 
 3.  **点击转换**:
     点击底部的 **CONVERT .PY TO .EXE** 按钮。
